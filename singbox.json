@@ -105,31 +105,8 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 172.66.1.181:2096 [VLESS]",
-      "server": "172.66.1.181",
-      "server_port": 2096,
-      "uuid": "5d23967c-dd1b-4743-8d46-93a156e60074",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "novo-node-mango-ca4208.flashlight1388-00.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "novo-node-mango-ca4208.flashlight1388-00.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 91.193.59.198:443 [VLESS]",
-      "server": "91.193.59.198",
+      "tag": "سرویس رایگان نوا @irnova 188.164.248.44:443 [VLESS]",
+      "server": "188.164.248.44",
       "server_port": 443,
       "uuid": "5d23967c-dd1b-4743-8d46-93a156e60074",
       "transport": {
@@ -151,9 +128,9 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 104.17.103.247:2096 [VLESS]",
-      "server": "104.17.103.247",
-      "server_port": 2096,
+      "tag": "سرویس رایگان نوا @irnova 104.17.58.218:2083 [VLESS]",
+      "server": "104.17.58.218",
+      "server_port": 2083,
       "uuid": "5d23967c-dd1b-4743-8d46-93a156e60074",
       "transport": {
         "path": "/",
@@ -174,261 +151,8 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 104.19.50.212:2096 [VLESS]",
-      "server": "104.19.50.212",
-      "server_port": 2096,
-      "uuid": "5d23967c-dd1b-4743-8d46-93a156e60074",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "novo-node-mango-ca4208.flashlight1388-00.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "novo-node-mango-ca4208.flashlight1388-00.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 8.35.211.78:2087 [VLESS]",
-      "server": "8.35.211.78",
-      "server_port": 2087,
-      "uuid": "5d23967c-dd1b-4743-8d46-93a156e60074",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "novo-node-mango-ca4208.flashlight1388-00.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "novo-node-mango-ca4208.flashlight1388-00.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 188.164.248.88:2087 [VLESS]",
-      "server": "188.164.248.88",
-      "server_port": 2087,
-      "uuid": "5d23967c-dd1b-4743-8d46-93a156e60074",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "novo-node-mango-ca4208.flashlight1388-00.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "novo-node-mango-ca4208.flashlight1388-00.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 104.17.119.172:443 [VLESS]",
-      "server": "104.17.119.172",
-      "server_port": 443,
-      "uuid": "5d23967c-dd1b-4743-8d46-93a156e60074",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "novo-node-mango-ca4208.flashlight1388-00.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "novo-node-mango-ca4208.flashlight1388-00.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 104.17.152.224:2096 [VLESS]",
-      "server": "104.17.152.224",
-      "server_port": 2096,
-      "uuid": "5d23967c-dd1b-4743-8d46-93a156e60074",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "novo-node-mango-ca4208.flashlight1388-00.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "novo-node-mango-ca4208.flashlight1388-00.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 104.16.248.196:443 [VLESS]",
-      "server": "104.16.248.196",
-      "server_port": 443,
-      "uuid": "5d23967c-dd1b-4743-8d46-93a156e60074",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "novo-node-mango-ca4208.flashlight1388-00.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "novo-node-mango-ca4208.flashlight1388-00.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 104.16.144.137:2087 [VLESS]",
-      "server": "104.16.144.137",
-      "server_port": 2087,
-      "uuid": "5d23967c-dd1b-4743-8d46-93a156e60074",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "novo-node-mango-ca4208.flashlight1388-00.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "novo-node-mango-ca4208.flashlight1388-00.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 104.17.118.166:2096 [VLESS]",
-      "server": "104.17.118.166",
-      "server_port": 2096,
-      "uuid": "5d23967c-dd1b-4743-8d46-93a156e60074",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "novo-node-mango-ca4208.flashlight1388-00.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "novo-node-mango-ca4208.flashlight1388-00.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 162.159.39.174:443 [VLESS]",
-      "server": "162.159.39.174",
-      "server_port": 443,
-      "uuid": "5d23967c-dd1b-4743-8d46-93a156e60074",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "novo-node-mango-ca4208.flashlight1388-00.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "novo-node-mango-ca4208.flashlight1388-00.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 104.17.112.232:2053 [VLESS]",
-      "server": "104.17.112.232",
-      "server_port": 2053,
-      "uuid": "5d23967c-dd1b-4743-8d46-93a156e60074",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "novo-node-mango-ca4208.flashlight1388-00.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "novo-node-mango-ca4208.flashlight1388-00.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 104.17.214.207:2053 [VLESS]",
-      "server": "104.17.214.207",
-      "server_port": 2053,
-      "uuid": "5d23967c-dd1b-4743-8d46-93a156e60074",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "novo-node-mango-ca4208.flashlight1388-00.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "novo-node-mango-ca4208.flashlight1388-00.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 104.17.176.46:8443 [VLESS]",
-      "server": "104.17.176.46",
+      "tag": "سرویس رایگان نوا @irnova 8.39.125.219:8443 [VLESS]",
+      "server": "8.39.125.219",
       "server_port": 8443,
       "uuid": "5d23967c-dd1b-4743-8d46-93a156e60074",
       "transport": {
@@ -450,9 +174,285 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 172.67.78.212:443 [VLESS]",
-      "server": "172.67.78.212",
+      "tag": "سرویس رایگان نوا @irnova 104.17.170.192:2053 [VLESS]",
+      "server": "104.17.170.192",
+      "server_port": 2053,
+      "uuid": "5d23967c-dd1b-4743-8d46-93a156e60074",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "novo-node-mango-ca4208.flashlight1388-00.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "novo-node-mango-ca4208.flashlight1388-00.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.17.171.10:2087 [VLESS]",
+      "server": "104.17.171.10",
+      "server_port": 2087,
+      "uuid": "5d23967c-dd1b-4743-8d46-93a156e60074",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "novo-node-mango-ca4208.flashlight1388-00.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "novo-node-mango-ca4208.flashlight1388-00.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.17.164.112:2053 [VLESS]",
+      "server": "104.17.164.112",
+      "server_port": 2053,
+      "uuid": "5d23967c-dd1b-4743-8d46-93a156e60074",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "novo-node-mango-ca4208.flashlight1388-00.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "novo-node-mango-ca4208.flashlight1388-00.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 188.164.248.138:2083 [VLESS]",
+      "server": "188.164.248.138",
+      "server_port": 2083,
+      "uuid": "5d23967c-dd1b-4743-8d46-93a156e60074",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "novo-node-mango-ca4208.flashlight1388-00.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "novo-node-mango-ca4208.flashlight1388-00.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.17.118.93:443 [VLESS]",
+      "server": "104.17.118.93",
       "server_port": 443,
+      "uuid": "5d23967c-dd1b-4743-8d46-93a156e60074",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "novo-node-mango-ca4208.flashlight1388-00.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "novo-node-mango-ca4208.flashlight1388-00.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 172.67.71.75:2087 [VLESS]",
+      "server": "172.67.71.75",
+      "server_port": 2087,
+      "uuid": "5d23967c-dd1b-4743-8d46-93a156e60074",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "novo-node-mango-ca4208.flashlight1388-00.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "novo-node-mango-ca4208.flashlight1388-00.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 198.41.209.50:8443 [VLESS]",
+      "server": "198.41.209.50",
+      "server_port": 8443,
+      "uuid": "5d23967c-dd1b-4743-8d46-93a156e60074",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "novo-node-mango-ca4208.flashlight1388-00.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "novo-node-mango-ca4208.flashlight1388-00.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.17.167.219:8443 [VLESS]",
+      "server": "104.17.167.219",
+      "server_port": 8443,
+      "uuid": "5d23967c-dd1b-4743-8d46-93a156e60074",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "novo-node-mango-ca4208.flashlight1388-00.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "novo-node-mango-ca4208.flashlight1388-00.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 188.164.248.66:8443 [VLESS]",
+      "server": "188.164.248.66",
+      "server_port": 8443,
+      "uuid": "5d23967c-dd1b-4743-8d46-93a156e60074",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "novo-node-mango-ca4208.flashlight1388-00.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "novo-node-mango-ca4208.flashlight1388-00.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.16.148.10:2087 [VLESS]",
+      "server": "104.16.148.10",
+      "server_port": 2087,
+      "uuid": "5d23967c-dd1b-4743-8d46-93a156e60074",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "novo-node-mango-ca4208.flashlight1388-00.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "novo-node-mango-ca4208.flashlight1388-00.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.19.51.198:8443 [VLESS]",
+      "server": "104.19.51.198",
+      "server_port": 8443,
+      "uuid": "5d23967c-dd1b-4743-8d46-93a156e60074",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "novo-node-mango-ca4208.flashlight1388-00.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "novo-node-mango-ca4208.flashlight1388-00.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.17.102.45:443 [VLESS]",
+      "server": "104.17.102.45",
+      "server_port": 443,
+      "uuid": "5d23967c-dd1b-4743-8d46-93a156e60074",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "novo-node-mango-ca4208.flashlight1388-00.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "novo-node-mango-ca4208.flashlight1388-00.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 172.66.0.121:8443 [VLESS]",
+      "server": "172.66.0.121",
+      "server_port": 8443,
       "uuid": "5d23967c-dd1b-4743-8d46-93a156e60074",
       "transport": {
         "path": "/",
@@ -480,22 +480,22 @@
         "🔮 负载均衡",
         "DIRECT",
         "🇨🇦 سرویس رایگان نوا @irnova novo-node-mango-ca4208.flashlight1388-00.workers.dev:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.66.1.181:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 91.193.59.198:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.103.247:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.50.212:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 8.35.211.78:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 188.164.248.88:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.119.172:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.152.224:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.248.196:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.144.137:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.118.166:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 162.159.39.174:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.112.232:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.214.207:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.176.46:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.67.78.212:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.164.248.44:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.58.218:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 8.39.125.219:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.170.192:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.171.10:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.164.112:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.164.248.138:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.118.93:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.67.71.75:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 198.41.209.50:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.167.219:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.164.248.66:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.148.10:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.51.198:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.102.45:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.66.0.121:8443 [VLESS]",
         "📢 https://t.me/irnova",
         "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01"
       ]
@@ -505,22 +505,22 @@
       "tag": "♻️ 自动选择",
       "outbounds": [
         "🇨🇦 سرویس رایگان نوا @irnova novo-node-mango-ca4208.flashlight1388-00.workers.dev:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.66.1.181:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 91.193.59.198:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.103.247:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.50.212:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 8.35.211.78:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 188.164.248.88:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.119.172:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.152.224:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.248.196:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.144.137:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.118.166:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 162.159.39.174:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.112.232:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.214.207:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.176.46:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.67.78.212:443 [VLESS]"
+        "سرویس رایگان نوا @irnova 188.164.248.44:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.58.218:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 8.39.125.219:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.170.192:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.171.10:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.164.112:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.164.248.138:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.118.93:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.67.71.75:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 198.41.209.50:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.167.219:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.164.248.66:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.148.10:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.51.198:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.102.45:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.66.0.121:8443 [VLESS]"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "5m",
@@ -531,22 +531,22 @@
       "tag": "🔯 故障转移",
       "outbounds": [
         "🇨🇦 سرویس رایگان نوا @irnova novo-node-mango-ca4208.flashlight1388-00.workers.dev:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.66.1.181:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 91.193.59.198:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.103.247:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.50.212:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 8.35.211.78:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 188.164.248.88:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.119.172:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.152.224:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.248.196:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.144.137:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.118.166:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 162.159.39.174:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.112.232:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.214.207:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.176.46:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.67.78.212:443 [VLESS]"
+        "سرویس رایگان نوا @irnova 188.164.248.44:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.58.218:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 8.39.125.219:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.170.192:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.171.10:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.164.112:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.164.248.138:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.118.93:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.67.71.75:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 198.41.209.50:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.167.219:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.164.248.66:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.148.10:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.51.198:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.102.45:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.66.0.121:8443 [VLESS]"
       ]
     },
     {
@@ -554,22 +554,22 @@
       "tag": "🔮 负载均衡",
       "outbounds": [
         "🇨🇦 سرویس رایگان نوا @irnova novo-node-mango-ca4208.flashlight1388-00.workers.dev:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.66.1.181:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 91.193.59.198:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.103.247:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.50.212:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 8.35.211.78:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 188.164.248.88:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.119.172:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.152.224:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.248.196:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.144.137:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.118.166:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 162.159.39.174:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.112.232:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.214.207:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.176.46:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.67.78.212:443 [VLESS]"
+        "سرویس رایگان نوا @irnova 188.164.248.44:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.58.218:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 8.39.125.219:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.170.192:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.171.10:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.164.112:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.164.248.138:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.118.93:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.67.71.75:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 198.41.209.50:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.167.219:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.164.248.66:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.148.10:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.51.198:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.102.45:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.66.0.121:8443 [VLESS]"
       ]
     },
     {
@@ -603,22 +603,22 @@
         "🔯 故障转移",
         "🔮 负载均衡",
         "🇨🇦 سرویس رایگان نوا @irnova novo-node-mango-ca4208.flashlight1388-00.workers.dev:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.66.1.181:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 91.193.59.198:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.103.247:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.50.212:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 8.35.211.78:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 188.164.248.88:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.119.172:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.152.224:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.248.196:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.144.137:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.118.166:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 162.159.39.174:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.112.232:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.214.207:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.176.46:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.67.78.212:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.164.248.44:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.58.218:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 8.39.125.219:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.170.192:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.171.10:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.164.112:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.164.248.138:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.118.93:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.67.71.75:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 198.41.209.50:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.167.219:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.164.248.66:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.148.10:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.51.198:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.102.45:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.66.0.121:8443 [VLESS]",
         "📢 https://t.me/irnova",
         "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01"
       ]
@@ -634,22 +634,22 @@
         "🔯 故障转移",
         "🔮 负载均衡",
         "🇨🇦 سرویس رایگان نوا @irnova novo-node-mango-ca4208.flashlight1388-00.workers.dev:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.66.1.181:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 91.193.59.198:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.103.247:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.50.212:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 8.35.211.78:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 188.164.248.88:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.119.172:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.152.224:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.248.196:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.144.137:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.118.166:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 162.159.39.174:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.112.232:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.214.207:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.176.46:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.67.78.212:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.164.248.44:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.58.218:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 8.39.125.219:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.170.192:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.171.10:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.164.112:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.164.248.138:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.118.93:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.67.71.75:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 198.41.209.50:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.167.219:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.164.248.66:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.148.10:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.51.198:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.102.45:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.66.0.121:8443 [VLESS]",
         "📢 https://t.me/irnova",
         "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01"
       ]
@@ -660,22 +660,22 @@
       "outbounds": [
         "DIRECT",
         "🇨🇦 سرویس رایگان نوا @irnova novo-node-mango-ca4208.flashlight1388-00.workers.dev:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.66.1.181:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 91.193.59.198:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.103.247:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.50.212:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 8.35.211.78:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 188.164.248.88:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.119.172:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.152.224:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.248.196:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.144.137:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.118.166:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 162.159.39.174:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.112.232:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.214.207:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.176.46:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.67.78.212:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.164.248.44:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.58.218:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 8.39.125.219:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.170.192:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.171.10:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.164.112:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.164.248.138:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.118.93:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.67.71.75:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 198.41.209.50:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.167.219:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 188.164.248.66:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.148.10:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.51.198:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.102.45:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.66.0.121:8443 [VLESS]",
         "📢 https://t.me/irnova",
         "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01"
       ]
