@@ -32,22 +32,22 @@ proxies:
   - {name: "📢 https://t.me/irnova", server: 192.0.2.1, port: 443, type: vmess, uuid: 5d23967c-dd1b-4743-8d46-93a156e60074, alterId: 0, cipher: auto, tls: true, servername: "novo-node-mango-ca4208.flashlight1388-00.workers.dev", network: ws, ws-opts: {path: "/?fake=1", headers: {Host: "novo-node-mango-ca4208.flashlight1388-00.workers.dev"}}, udp: false}
   - {name: "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01", server: 192.0.2.1, port: 443, type: vmess, uuid: 5d23967c-dd1b-4743-8d46-93a156e60074, alterId: 0, cipher: auto, tls: true, servername: "novo-node-mango-ca4208.flashlight1388-00.workers.dev", network: ws, ws-opts: {path: "/?fake=1", headers: {Host: "novo-node-mango-ca4208.flashlight1388-00.workers.dev"}}, udp: false}
   - {name: "🇨🇦 سرویس رایگان نوا @irnova novo-node-mango-ca4208.flashlight1388-00.workers.dev:443 [VLESS]", server: novo-node-mango-ca4208.flashlight1388-00.workers.dev, port: 443, type: vless, uuid: 5d23967c-dd1b-4743-8d46-93a156e60074, tls: true, skip-cert-verify: false, servername: novo-node-mango-ca4208.flashlight1388-00.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: novo-node-mango-ca4208.flashlight1388-00.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.16.148.80:2096 [VLESS]", server: 104.16.148.80, port: 2096, type: vless, uuid: 5d23967c-dd1b-4743-8d46-93a156e60074, tls: true, skip-cert-verify: false, servername: novo-node-mango-ca4208.flashlight1388-00.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: novo-node-mango-ca4208.flashlight1388-00.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.17.19.225:2083 [VLESS]", server: 104.17.19.225, port: 2083, type: vless, uuid: 5d23967c-dd1b-4743-8d46-93a156e60074, tls: true, skip-cert-verify: false, servername: novo-node-mango-ca4208.flashlight1388-00.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: novo-node-mango-ca4208.flashlight1388-00.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 8.39.125.3:443 [VLESS]", server: 8.39.125.3, port: 443, type: vless, uuid: 5d23967c-dd1b-4743-8d46-93a156e60074, tls: true, skip-cert-verify: false, servername: novo-node-mango-ca4208.flashlight1388-00.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: novo-node-mango-ca4208.flashlight1388-00.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 162.159.44.6:2096 [VLESS]", server: 162.159.44.6, port: 2096, type: vless, uuid: 5d23967c-dd1b-4743-8d46-93a156e60074, tls: true, skip-cert-verify: false, servername: novo-node-mango-ca4208.flashlight1388-00.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: novo-node-mango-ca4208.flashlight1388-00.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 162.159.38.166:2087 [VLESS]", server: 162.159.38.166, port: 2087, type: vless, uuid: 5d23967c-dd1b-4743-8d46-93a156e60074, tls: true, skip-cert-verify: false, servername: novo-node-mango-ca4208.flashlight1388-00.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: novo-node-mango-ca4208.flashlight1388-00.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 172.66.0.151:2053 [VLESS]", server: 172.66.0.151, port: 2053, type: vless, uuid: 5d23967c-dd1b-4743-8d46-93a156e60074, tls: true, skip-cert-verify: false, servername: novo-node-mango-ca4208.flashlight1388-00.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: novo-node-mango-ca4208.flashlight1388-00.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 8.35.211.161:2053 [VLESS]", server: 8.35.211.161, port: 2053, type: vless, uuid: 5d23967c-dd1b-4743-8d46-93a156e60074, tls: true, skip-cert-verify: false, servername: novo-node-mango-ca4208.flashlight1388-00.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: novo-node-mango-ca4208.flashlight1388-00.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.17.52.99:2087 [VLESS]", server: 104.17.52.99, port: 2087, type: vless, uuid: 5d23967c-dd1b-4743-8d46-93a156e60074, tls: true, skip-cert-verify: false, servername: novo-node-mango-ca4208.flashlight1388-00.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: novo-node-mango-ca4208.flashlight1388-00.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.17.22.223:8443 [VLESS]", server: 104.17.22.223, port: 8443, type: vless, uuid: 5d23967c-dd1b-4743-8d46-93a156e60074, tls: true, skip-cert-verify: false, servername: novo-node-mango-ca4208.flashlight1388-00.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: novo-node-mango-ca4208.flashlight1388-00.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 8.35.211.206:2087 [VLESS]", server: 8.35.211.206, port: 2087, type: vless, uuid: 5d23967c-dd1b-4743-8d46-93a156e60074, tls: true, skip-cert-verify: false, servername: novo-node-mango-ca4208.flashlight1388-00.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: novo-node-mango-ca4208.flashlight1388-00.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.26.8.178:2087 [VLESS]", server: 104.26.8.178, port: 2087, type: vless, uuid: 5d23967c-dd1b-4743-8d46-93a156e60074, tls: true, skip-cert-verify: false, servername: novo-node-mango-ca4208.flashlight1388-00.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: novo-node-mango-ca4208.flashlight1388-00.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.16.251.120:2087 [VLESS]", server: 104.16.251.120, port: 2087, type: vless, uuid: 5d23967c-dd1b-4743-8d46-93a156e60074, tls: true, skip-cert-verify: false, servername: novo-node-mango-ca4208.flashlight1388-00.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: novo-node-mango-ca4208.flashlight1388-00.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.19.147.129:443 [VLESS]", server: 104.19.147.129, port: 443, type: vless, uuid: 5d23967c-dd1b-4743-8d46-93a156e60074, tls: true, skip-cert-verify: false, servername: novo-node-mango-ca4208.flashlight1388-00.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: novo-node-mango-ca4208.flashlight1388-00.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.16.254.85:443 [VLESS]", server: 104.16.254.85, port: 443, type: vless, uuid: 5d23967c-dd1b-4743-8d46-93a156e60074, tls: true, skip-cert-verify: false, servername: novo-node-mango-ca4208.flashlight1388-00.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: novo-node-mango-ca4208.flashlight1388-00.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 172.66.1.135:2096 [VLESS]", server: 172.66.1.135, port: 2096, type: vless, uuid: 5d23967c-dd1b-4743-8d46-93a156e60074, tls: true, skip-cert-verify: false, servername: novo-node-mango-ca4208.flashlight1388-00.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: novo-node-mango-ca4208.flashlight1388-00.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.16.249.254:443 [VLESS]", server: 104.16.249.254, port: 443, type: vless, uuid: 5d23967c-dd1b-4743-8d46-93a156e60074, tls: true, skip-cert-verify: false, servername: novo-node-mango-ca4208.flashlight1388-00.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: novo-node-mango-ca4208.flashlight1388-00.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.159.146:443 [VLESS]", server: 104.17.159.146, port: 443, type: vless, uuid: 5d23967c-dd1b-4743-8d46-93a156e60074, tls: true, skip-cert-verify: false, servername: novo-node-mango-ca4208.flashlight1388-00.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: novo-node-mango-ca4208.flashlight1388-00.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.17.162:2083 [VLESS]", server: 104.17.17.162, port: 2083, type: vless, uuid: 5d23967c-dd1b-4743-8d46-93a156e60074, tls: true, skip-cert-verify: false, servername: novo-node-mango-ca4208.flashlight1388-00.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: novo-node-mango-ca4208.flashlight1388-00.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 172.67.76.218:443 [VLESS]", server: 172.67.76.218, port: 443, type: vless, uuid: 5d23967c-dd1b-4743-8d46-93a156e60074, tls: true, skip-cert-verify: false, servername: novo-node-mango-ca4208.flashlight1388-00.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: novo-node-mango-ca4208.flashlight1388-00.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.209.111:443 [VLESS]", server: 104.17.209.111, port: 443, type: vless, uuid: 5d23967c-dd1b-4743-8d46-93a156e60074, tls: true, skip-cert-verify: false, servername: novo-node-mango-ca4208.flashlight1388-00.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: novo-node-mango-ca4208.flashlight1388-00.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 162.159.39.73:2083 [VLESS]", server: 162.159.39.73, port: 2083, type: vless, uuid: 5d23967c-dd1b-4743-8d46-93a156e60074, tls: true, skip-cert-verify: false, servername: novo-node-mango-ca4208.flashlight1388-00.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: novo-node-mango-ca4208.flashlight1388-00.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.30.219:2083 [VLESS]", server: 104.17.30.219, port: 2083, type: vless, uuid: 5d23967c-dd1b-4743-8d46-93a156e60074, tls: true, skip-cert-verify: false, servername: novo-node-mango-ca4208.flashlight1388-00.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: novo-node-mango-ca4208.flashlight1388-00.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.26.9.3:8443 [VLESS]", server: 104.26.9.3, port: 8443, type: vless, uuid: 5d23967c-dd1b-4743-8d46-93a156e60074, tls: true, skip-cert-verify: false, servername: novo-node-mango-ca4208.flashlight1388-00.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: novo-node-mango-ca4208.flashlight1388-00.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.16.155.205:2096 [VLESS]", server: 104.16.155.205, port: 2096, type: vless, uuid: 5d23967c-dd1b-4743-8d46-93a156e60074, tls: true, skip-cert-verify: false, servername: novo-node-mango-ca4208.flashlight1388-00.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: novo-node-mango-ca4208.flashlight1388-00.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.26.12.205:2087 [VLESS]", server: 104.26.12.205, port: 2087, type: vless, uuid: 5d23967c-dd1b-4743-8d46-93a156e60074, tls: true, skip-cert-verify: false, servername: novo-node-mango-ca4208.flashlight1388-00.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: novo-node-mango-ca4208.flashlight1388-00.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 172.67.67.234:2083 [VLESS]", server: 172.67.67.234, port: 2083, type: vless, uuid: 5d23967c-dd1b-4743-8d46-93a156e60074, tls: true, skip-cert-verify: false, servername: novo-node-mango-ca4208.flashlight1388-00.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: novo-node-mango-ca4208.flashlight1388-00.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.210.60:2083 [VLESS]", server: 104.17.210.60, port: 2083, type: vless, uuid: 5d23967c-dd1b-4743-8d46-93a156e60074, tls: true, skip-cert-verify: false, servername: novo-node-mango-ca4208.flashlight1388-00.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: novo-node-mango-ca4208.flashlight1388-00.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 8.35.211.223:2083 [VLESS]", server: 8.35.211.223, port: 2083, type: vless, uuid: 5d23967c-dd1b-4743-8d46-93a156e60074, tls: true, skip-cert-verify: false, servername: novo-node-mango-ca4208.flashlight1388-00.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: novo-node-mango-ca4208.flashlight1388-00.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.18.130:443 [VLESS]", server: 104.17.18.130, port: 443, type: vless, uuid: 5d23967c-dd1b-4743-8d46-93a156e60074, tls: true, skip-cert-verify: false, servername: novo-node-mango-ca4208.flashlight1388-00.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: novo-node-mango-ca4208.flashlight1388-00.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.16.251.100:8443 [VLESS]", server: 104.16.251.100, port: 8443, type: vless, uuid: 5d23967c-dd1b-4743-8d46-93a156e60074, tls: true, skip-cert-verify: false, servername: novo-node-mango-ca4208.flashlight1388-00.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: novo-node-mango-ca4208.flashlight1388-00.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.57.37:443 [VLESS]", server: 104.17.57.37, port: 443, type: vless, uuid: 5d23967c-dd1b-4743-8d46-93a156e60074, tls: true, skip-cert-verify: false, servername: novo-node-mango-ca4208.flashlight1388-00.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: novo-node-mango-ca4208.flashlight1388-00.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 162.159.34.133:2096 [VLESS]", server: 162.159.34.133, port: 2096, type: vless, uuid: 5d23967c-dd1b-4743-8d46-93a156e60074, tls: true, skip-cert-verify: false, servername: novo-node-mango-ca4208.flashlight1388-00.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: novo-node-mango-ca4208.flashlight1388-00.workers.dev}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -59,22 +59,22 @@ proxy-groups:
       - 🔮 负载均衡
       - DIRECT
       - 🇨🇦 سرویس رایگان نوا @irnova novo-node-mango-ca4208.flashlight1388-00.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.148.80:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.19.225:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 8.39.125.3:443 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.44.6:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.38.166:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.0.151:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 8.35.211.161:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.52.99:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.22.223:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 8.35.211.206:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.26.8.178:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.251.120:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.147.129:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.254.85:443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.1.135:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.249.254:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.159.146:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.17.162:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.76.218:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.209.111:443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.39.73:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.30.219:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.9.3:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.155.205:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.12.205:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.67.234:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.210.60:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 8.35.211.223:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.18.130:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.251.100:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.57.37:443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.34.133:2096 [VLESS]
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -82,44 +82,44 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 🇨🇦 سرویس رایگان نوا @irnova novo-node-mango-ca4208.flashlight1388-00.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.148.80:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.19.225:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 8.39.125.3:443 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.44.6:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.38.166:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.0.151:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 8.35.211.161:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.52.99:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.22.223:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 8.35.211.206:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.26.8.178:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.251.120:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.147.129:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.254.85:443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.1.135:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.249.254:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.159.146:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.17.162:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.76.218:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.209.111:443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.39.73:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.30.219:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.9.3:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.155.205:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.12.205:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.67.234:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.210.60:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 8.35.211.223:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.18.130:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.251.100:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.57.37:443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.34.133:2096 [VLESS]
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
     interval: 180
     proxies:
       - 🇨🇦 سرویس رایگان نوا @irnova novo-node-mango-ca4208.flashlight1388-00.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.148.80:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.19.225:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 8.39.125.3:443 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.44.6:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.38.166:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.0.151:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 8.35.211.161:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.52.99:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.22.223:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 8.35.211.206:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.26.8.178:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.251.120:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.147.129:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.254.85:443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.1.135:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.249.254:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.159.146:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.17.162:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.76.218:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.209.111:443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.39.73:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.30.219:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.9.3:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.155.205:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.12.205:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.67.234:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.210.60:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 8.35.211.223:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.18.130:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.251.100:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.57.37:443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.34.133:2096 [VLESS]
   - name: 🔮 负载均衡
     type: load-balance
     strategy: consistent-hashing
@@ -127,22 +127,22 @@ proxy-groups:
     interval: 180
     proxies:
       - 🇨🇦 سرویس رایگان نوا @irnova novo-node-mango-ca4208.flashlight1388-00.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.148.80:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.19.225:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 8.39.125.3:443 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.44.6:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.38.166:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.0.151:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 8.35.211.161:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.52.99:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.22.223:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 8.35.211.206:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.26.8.178:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.251.120:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.147.129:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.254.85:443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.1.135:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.249.254:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.159.146:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.17.162:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.76.218:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.209.111:443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.39.73:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.30.219:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.9.3:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.155.205:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.12.205:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.67.234:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.210.60:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 8.35.211.223:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.18.130:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.251.100:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.57.37:443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.34.133:2096 [VLESS]
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -169,22 +169,22 @@ proxy-groups:
       - 🔯 故障转移
       - 🔮 负载均衡
       - 🇨🇦 سرویس رایگان نوا @irnova novo-node-mango-ca4208.flashlight1388-00.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.148.80:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.19.225:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 8.39.125.3:443 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.44.6:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.38.166:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.0.151:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 8.35.211.161:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.52.99:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.22.223:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 8.35.211.206:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.26.8.178:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.251.120:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.147.129:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.254.85:443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.1.135:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.249.254:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.159.146:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.17.162:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.76.218:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.209.111:443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.39.73:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.30.219:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.9.3:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.155.205:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.12.205:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.67.234:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.210.60:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 8.35.211.223:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.18.130:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.251.100:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.57.37:443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.34.133:2096 [VLESS]
   - name: ☁️ CloudFlareCDN
     type: select
     proxies:
@@ -197,22 +197,22 @@ proxy-groups:
       - 🔯 故障转移
       - 🔮 负载均衡
       - 🇨🇦 سرویس رایگان نوا @irnova novo-node-mango-ca4208.flashlight1388-00.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.148.80:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.19.225:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 8.39.125.3:443 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.44.6:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.38.166:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.0.151:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 8.35.211.161:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.52.99:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.22.223:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 8.35.211.206:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.26.8.178:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.251.120:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.147.129:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.254.85:443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.1.135:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.249.254:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.159.146:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.17.162:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.76.218:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.209.111:443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.39.73:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.30.219:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.9.3:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.155.205:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.12.205:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.67.234:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.210.60:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 8.35.211.223:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.18.130:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.251.100:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.57.37:443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.34.133:2096 [VLESS]
 rules:
 # SANCTION BYPASS RULES
   - DOMAIN-SUFFIX,intel.com,DIRECT
