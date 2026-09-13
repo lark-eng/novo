@@ -32,22 +32,22 @@ proxies:
   - {name: "📢 https://t.me/irnova", server: 192.0.2.1, port: 443, type: vmess, uuid: 0a031ab3-fcb2-4ee0-8fa3-5e99abaaa4f7, alterId: 0, cipher: auto, tls: true, servername: "nova-core-luna-654414.taha-basam-german.workers.dev", network: ws, ws-opts: {path: "/?fake=1", headers: {Host: "nova-core-luna-654414.taha-basam-german.workers.dev"}}, udp: false}
   - {name: "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01", server: 192.0.2.1, port: 443, type: vmess, uuid: 0a031ab3-fcb2-4ee0-8fa3-5e99abaaa4f7, alterId: 0, cipher: auto, tls: true, servername: "nova-core-luna-654414.taha-basam-german.workers.dev", network: ws, ws-opts: {path: "/?fake=1", headers: {Host: "nova-core-luna-654414.taha-basam-german.workers.dev"}}, udp: false}
   - {name: "سرویس رایگان نوا @irnova nova-core-luna-654414.taha-basam-german.workers.dev:443 [VLESS]", server: nova-core-luna-654414.taha-basam-german.workers.dev, port: 443, type: vless, uuid: 0a031ab3-fcb2-4ee0-8fa3-5e99abaaa4f7, tls: true, skip-cert-verify: false, servername: nova-core-luna-654414.taha-basam-german.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=5.187.1.235, headers: {Host: nova-core-luna-654414.taha-basam-german.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.18.33.166:2096 [VLESS]", server: 104.18.33.166, port: 2096, type: vless, uuid: 0a031ab3-fcb2-4ee0-8fa3-5e99abaaa4f7, tls: true, skip-cert-verify: false, servername: nova-core-luna-654414.taha-basam-german.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=5.187.1.235, headers: {Host: nova-core-luna-654414.taha-basam-german.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 172.67.67.128:2083 [VLESS]", server: 172.67.67.128, port: 2083, type: vless, uuid: 0a031ab3-fcb2-4ee0-8fa3-5e99abaaa4f7, tls: true, skip-cert-verify: false, servername: nova-core-luna-654414.taha-basam-german.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=5.187.1.235, headers: {Host: nova-core-luna-654414.taha-basam-german.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.17.218.77:2083 [VLESS]", server: 104.17.218.77, port: 2083, type: vless, uuid: 0a031ab3-fcb2-4ee0-8fa3-5e99abaaa4f7, tls: true, skip-cert-verify: false, servername: nova-core-luna-654414.taha-basam-german.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=5.187.1.235, headers: {Host: nova-core-luna-654414.taha-basam-german.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.16.147.222:8443 [VLESS]", server: 104.16.147.222, port: 8443, type: vless, uuid: 0a031ab3-fcb2-4ee0-8fa3-5e99abaaa4f7, tls: true, skip-cert-verify: false, servername: nova-core-luna-654414.taha-basam-german.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=5.187.1.235, headers: {Host: nova-core-luna-654414.taha-basam-german.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.16.240.158:2053 [VLESS]", server: 104.16.240.158, port: 2053, type: vless, uuid: 0a031ab3-fcb2-4ee0-8fa3-5e99abaaa4f7, tls: true, skip-cert-verify: false, servername: nova-core-luna-654414.taha-basam-german.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=5.187.1.235, headers: {Host: nova-core-luna-654414.taha-basam-german.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.26.7.145:2083 [VLESS]", server: 104.26.7.145, port: 2083, type: vless, uuid: 0a031ab3-fcb2-4ee0-8fa3-5e99abaaa4f7, tls: true, skip-cert-verify: false, servername: nova-core-luna-654414.taha-basam-german.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=5.187.1.235, headers: {Host: nova-core-luna-654414.taha-basam-german.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 172.66.1.172:8443 [VLESS]", server: 172.66.1.172, port: 8443, type: vless, uuid: 0a031ab3-fcb2-4ee0-8fa3-5e99abaaa4f7, tls: true, skip-cert-verify: false, servername: nova-core-luna-654414.taha-basam-german.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=5.187.1.235, headers: {Host: nova-core-luna-654414.taha-basam-german.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 198.41.209.70:2087 [VLESS]", server: 198.41.209.70, port: 2087, type: vless, uuid: 0a031ab3-fcb2-4ee0-8fa3-5e99abaaa4f7, tls: true, skip-cert-verify: false, servername: nova-core-luna-654414.taha-basam-german.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=5.187.1.235, headers: {Host: nova-core-luna-654414.taha-basam-german.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 162.159.38.12:2053 [VLESS]", server: 162.159.38.12, port: 2053, type: vless, uuid: 0a031ab3-fcb2-4ee0-8fa3-5e99abaaa4f7, tls: true, skip-cert-verify: false, servername: nova-core-luna-654414.taha-basam-german.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=5.187.1.235, headers: {Host: nova-core-luna-654414.taha-basam-german.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.19.51.24:2053 [VLESS]", server: 104.19.51.24, port: 2053, type: vless, uuid: 0a031ab3-fcb2-4ee0-8fa3-5e99abaaa4f7, tls: true, skip-cert-verify: false, servername: nova-core-luna-654414.taha-basam-german.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=5.187.1.235, headers: {Host: nova-core-luna-654414.taha-basam-german.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.16.145.95:2053 [VLESS]", server: 104.16.145.95, port: 2053, type: vless, uuid: 0a031ab3-fcb2-4ee0-8fa3-5e99abaaa4f7, tls: true, skip-cert-verify: false, servername: nova-core-luna-654414.taha-basam-german.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=5.187.1.235, headers: {Host: nova-core-luna-654414.taha-basam-german.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.17.217.149:8443 [VLESS]", server: 104.17.217.149, port: 8443, type: vless, uuid: 0a031ab3-fcb2-4ee0-8fa3-5e99abaaa4f7, tls: true, skip-cert-verify: false, servername: nova-core-luna-654414.taha-basam-german.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=5.187.1.235, headers: {Host: nova-core-luna-654414.taha-basam-german.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.17.112.120:2096 [VLESS]", server: 104.17.112.120, port: 2096, type: vless, uuid: 0a031ab3-fcb2-4ee0-8fa3-5e99abaaa4f7, tls: true, skip-cert-verify: false, servername: nova-core-luna-654414.taha-basam-german.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=5.187.1.235, headers: {Host: nova-core-luna-654414.taha-basam-german.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.16.245.75:2083 [VLESS]", server: 104.16.245.75, port: 2083, type: vless, uuid: 0a031ab3-fcb2-4ee0-8fa3-5e99abaaa4f7, tls: true, skip-cert-verify: false, servername: nova-core-luna-654414.taha-basam-german.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=5.187.1.235, headers: {Host: nova-core-luna-654414.taha-basam-german.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 188.164.248.55:2053 [VLESS]", server: 188.164.248.55, port: 2053, type: vless, uuid: 0a031ab3-fcb2-4ee0-8fa3-5e99abaaa4f7, tls: true, skip-cert-verify: false, servername: nova-core-luna-654414.taha-basam-german.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=5.187.1.235, headers: {Host: nova-core-luna-654414.taha-basam-german.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.26.15.241:8443 [VLESS]", server: 104.26.15.241, port: 8443, type: vless, uuid: 0a031ab3-fcb2-4ee0-8fa3-5e99abaaa4f7, tls: true, skip-cert-verify: false, servername: nova-core-luna-654414.taha-basam-german.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=5.187.1.235, headers: {Host: nova-core-luna-654414.taha-basam-german.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 172.67.72.177:2083 [VLESS]", server: 172.67.72.177, port: 2083, type: vless, uuid: 0a031ab3-fcb2-4ee0-8fa3-5e99abaaa4f7, tls: true, skip-cert-verify: false, servername: nova-core-luna-654414.taha-basam-german.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=5.187.1.235, headers: {Host: nova-core-luna-654414.taha-basam-german.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 91.193.58.154:2096 [VLESS]", server: 91.193.58.154, port: 2096, type: vless, uuid: 0a031ab3-fcb2-4ee0-8fa3-5e99abaaa4f7, tls: true, skip-cert-verify: false, servername: nova-core-luna-654414.taha-basam-german.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=5.187.1.235, headers: {Host: nova-core-luna-654414.taha-basam-german.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.20.242:2087 [VLESS]", server: 104.17.20.242, port: 2087, type: vless, uuid: 0a031ab3-fcb2-4ee0-8fa3-5e99abaaa4f7, tls: true, skip-cert-verify: false, servername: nova-core-luna-654414.taha-basam-german.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=5.187.1.235, headers: {Host: nova-core-luna-654414.taha-basam-german.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.26.6.177:8443 [VLESS]", server: 104.26.6.177, port: 8443, type: vless, uuid: 0a031ab3-fcb2-4ee0-8fa3-5e99abaaa4f7, tls: true, skip-cert-verify: false, servername: nova-core-luna-654414.taha-basam-german.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=5.187.1.235, headers: {Host: nova-core-luna-654414.taha-basam-german.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.60.219:2083 [VLESS]", server: 104.17.60.219, port: 2083, type: vless, uuid: 0a031ab3-fcb2-4ee0-8fa3-5e99abaaa4f7, tls: true, skip-cert-verify: false, servername: nova-core-luna-654414.taha-basam-german.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=5.187.1.235, headers: {Host: nova-core-luna-654414.taha-basam-german.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.26.2.155:2096 [VLESS]", server: 104.26.2.155, port: 2096, type: vless, uuid: 0a031ab3-fcb2-4ee0-8fa3-5e99abaaa4f7, tls: true, skip-cert-verify: false, servername: nova-core-luna-654414.taha-basam-german.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=5.187.1.235, headers: {Host: nova-core-luna-654414.taha-basam-german.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.24.135:2083 [VLESS]", server: 104.17.24.135, port: 2083, type: vless, uuid: 0a031ab3-fcb2-4ee0-8fa3-5e99abaaa4f7, tls: true, skip-cert-verify: false, servername: nova-core-luna-654414.taha-basam-german.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=5.187.1.235, headers: {Host: nova-core-luna-654414.taha-basam-german.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 162.159.38.97:8443 [VLESS]", server: 162.159.38.97, port: 8443, type: vless, uuid: 0a031ab3-fcb2-4ee0-8fa3-5e99abaaa4f7, tls: true, skip-cert-verify: false, servername: nova-core-luna-654414.taha-basam-german.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=5.187.1.235, headers: {Host: nova-core-luna-654414.taha-basam-german.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.187.39:2087 [VLESS]", server: 104.17.187.39, port: 2087, type: vless, uuid: 0a031ab3-fcb2-4ee0-8fa3-5e99abaaa4f7, tls: true, skip-cert-verify: false, servername: nova-core-luna-654414.taha-basam-german.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=5.187.1.235, headers: {Host: nova-core-luna-654414.taha-basam-german.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 162.159.46.63:2096 [VLESS]", server: 162.159.46.63, port: 2096, type: vless, uuid: 0a031ab3-fcb2-4ee0-8fa3-5e99abaaa4f7, tls: true, skip-cert-verify: false, servername: nova-core-luna-654414.taha-basam-german.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=5.187.1.235, headers: {Host: nova-core-luna-654414.taha-basam-german.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.187.185:2096 [VLESS]", server: 104.17.187.185, port: 2096, type: vless, uuid: 0a031ab3-fcb2-4ee0-8fa3-5e99abaaa4f7, tls: true, skip-cert-verify: false, servername: nova-core-luna-654414.taha-basam-german.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=5.187.1.235, headers: {Host: nova-core-luna-654414.taha-basam-german.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 188.164.248.114:2083 [VLESS]", server: 188.164.248.114, port: 2083, type: vless, uuid: 0a031ab3-fcb2-4ee0-8fa3-5e99abaaa4f7, tls: true, skip-cert-verify: false, servername: nova-core-luna-654414.taha-basam-german.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=5.187.1.235, headers: {Host: nova-core-luna-654414.taha-basam-german.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.16.145.190:2087 [VLESS]", server: 104.16.145.190, port: 2087, type: vless, uuid: 0a031ab3-fcb2-4ee0-8fa3-5e99abaaa4f7, tls: true, skip-cert-verify: false, servername: nova-core-luna-654414.taha-basam-german.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=5.187.1.235, headers: {Host: nova-core-luna-654414.taha-basam-german.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 162.159.42.53:2053 [VLESS]", server: 162.159.42.53, port: 2053, type: vless, uuid: 0a031ab3-fcb2-4ee0-8fa3-5e99abaaa4f7, tls: true, skip-cert-verify: false, servername: nova-core-luna-654414.taha-basam-german.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=5.187.1.235, headers: {Host: nova-core-luna-654414.taha-basam-german.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 172.66.2.91:8443 [VLESS]", server: 172.66.2.91, port: 8443, type: vless, uuid: 0a031ab3-fcb2-4ee0-8fa3-5e99abaaa4f7, tls: true, skip-cert-verify: false, servername: nova-core-luna-654414.taha-basam-german.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=5.187.1.235, headers: {Host: nova-core-luna-654414.taha-basam-german.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 172.67.79.158:2083 [VLESS]", server: 172.67.79.158, port: 2083, type: vless, uuid: 0a031ab3-fcb2-4ee0-8fa3-5e99abaaa4f7, tls: true, skip-cert-verify: false, servername: nova-core-luna-654414.taha-basam-german.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=5.187.1.235, headers: {Host: nova-core-luna-654414.taha-basam-german.workers.dev}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -59,22 +59,22 @@ proxy-groups:
       - 🔮 负载均衡
       - DIRECT
       - سرویس رایگان نوا @irnova nova-core-luna-654414.taha-basam-german.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.18.33.166:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 172.67.67.128:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.218.77:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.147.222:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.240.158:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.26.7.145:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.1.172:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.209.70:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.38.12:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.51.24:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.145.95:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.217.149:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.112.120:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.245.75:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 188.164.248.55:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.26.15.241:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.72.177:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 91.193.58.154:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.20.242:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.6.177:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.60.219:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.2.155:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.24.135:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.38.97:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.187.39:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.46.63:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.187.185:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 188.164.248.114:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.145.190:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.42.53:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.2.91:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.79.158:2083 [VLESS]
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -82,44 +82,44 @@ proxy-groups:
     tolerance: 50
     proxies:
       - سرویس رایگان نوا @irnova nova-core-luna-654414.taha-basam-german.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.18.33.166:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 172.67.67.128:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.218.77:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.147.222:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.240.158:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.26.7.145:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.1.172:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.209.70:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.38.12:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.51.24:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.145.95:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.217.149:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.112.120:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.245.75:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 188.164.248.55:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.26.15.241:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.72.177:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 91.193.58.154:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.20.242:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.6.177:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.60.219:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.2.155:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.24.135:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.38.97:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.187.39:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.46.63:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.187.185:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 188.164.248.114:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.145.190:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.42.53:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.2.91:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.79.158:2083 [VLESS]
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
     interval: 180
     proxies:
       - سرویس رایگان نوا @irnova nova-core-luna-654414.taha-basam-german.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.18.33.166:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 172.67.67.128:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.218.77:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.147.222:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.240.158:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.26.7.145:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.1.172:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.209.70:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.38.12:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.51.24:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.145.95:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.217.149:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.112.120:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.245.75:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 188.164.248.55:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.26.15.241:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.72.177:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 91.193.58.154:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.20.242:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.6.177:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.60.219:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.2.155:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.24.135:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.38.97:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.187.39:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.46.63:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.187.185:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 188.164.248.114:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.145.190:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.42.53:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.2.91:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.79.158:2083 [VLESS]
   - name: 🔮 负载均衡
     type: load-balance
     strategy: consistent-hashing
@@ -127,22 +127,22 @@ proxy-groups:
     interval: 180
     proxies:
       - سرویس رایگان نوا @irnova nova-core-luna-654414.taha-basam-german.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.18.33.166:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 172.67.67.128:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.218.77:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.147.222:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.240.158:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.26.7.145:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.1.172:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.209.70:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.38.12:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.51.24:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.145.95:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.217.149:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.112.120:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.245.75:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 188.164.248.55:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.26.15.241:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.72.177:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 91.193.58.154:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.20.242:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.6.177:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.60.219:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.2.155:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.24.135:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.38.97:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.187.39:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.46.63:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.187.185:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 188.164.248.114:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.145.190:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.42.53:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.2.91:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.79.158:2083 [VLESS]
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -169,22 +169,22 @@ proxy-groups:
       - 🔯 故障转移
       - 🔮 负载均衡
       - سرویس رایگان نوا @irnova nova-core-luna-654414.taha-basam-german.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.18.33.166:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 172.67.67.128:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.218.77:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.147.222:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.240.158:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.26.7.145:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.1.172:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.209.70:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.38.12:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.51.24:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.145.95:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.217.149:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.112.120:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.245.75:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 188.164.248.55:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.26.15.241:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.72.177:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 91.193.58.154:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.20.242:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.6.177:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.60.219:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.2.155:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.24.135:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.38.97:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.187.39:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.46.63:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.187.185:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 188.164.248.114:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.145.190:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.42.53:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.2.91:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.79.158:2083 [VLESS]
   - name: ☁️ CloudFlareCDN
     type: select
     proxies:
@@ -197,22 +197,22 @@ proxy-groups:
       - 🔯 故障转移
       - 🔮 负载均衡
       - سرویس رایگان نوا @irnova nova-core-luna-654414.taha-basam-german.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.18.33.166:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 172.67.67.128:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.218.77:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.147.222:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.240.158:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.26.7.145:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.1.172:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.209.70:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.38.12:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.51.24:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.145.95:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.217.149:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.112.120:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.245.75:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 188.164.248.55:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.26.15.241:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.72.177:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 91.193.58.154:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.20.242:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.6.177:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.60.219:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.2.155:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.24.135:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.38.97:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.187.39:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.46.63:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.187.185:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 188.164.248.114:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.145.190:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.42.53:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.2.91:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.79.158:2083 [VLESS]
 rules:
 # SANCTION BYPASS RULES
   - DOMAIN-SUFFIX,intel.com,DIRECT
